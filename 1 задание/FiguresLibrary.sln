@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresLibrary", "AreaCalculator\FiguresLibrary.csproj", "{595339E1-47AD-4125-B23D-3DC0AA0203F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresLibrary", "FiguresLibrary\FiguresLibrary.csproj", "{595339E1-47AD-4125-B23D-3DC0AA0203F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresLibrary.Tests", "Tests\FiguresLibrary.Tests.csproj", "{EAB5DFF6-742C-4906-88A2-3986E51A0C74}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresLibrary.Tests", "FiguresLibrary.Tests\FiguresLibrary.Tests.csproj", "{EAB5DFF6-742C-4906-88A2-3986E51A0C74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

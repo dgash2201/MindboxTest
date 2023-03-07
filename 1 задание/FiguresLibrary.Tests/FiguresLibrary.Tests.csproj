@@ -55,7 +55,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AreaCalculator\FiguresLibrary.csproj">
+    <ProjectReference Include="..\FiguresLibrary\FiguresLibrary.csproj">
       <Project>{595339e1-47ad-4125-b23d-3dc0aa0203f3}</Project>
       <Name>FiguresLibrary</Name>
     </ProjectReference>
